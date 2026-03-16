@@ -5,3 +5,19 @@
     color: white;
     overflow: hidden;
 }
+
+.main{
+    display: flex;
+}
+
+.sidebar{
+    background-color: red;
+}
+
+.main-content{
+    background-color: blue;
+}
+
+.music-player{
+    background-color: yellow;
+}
