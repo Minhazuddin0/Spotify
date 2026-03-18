@@ -10,10 +10,11 @@
     display: flex;
     height: 100vh;
     padding: 0.5rem;
+    margin-right: 0.5rem;
 }
 
 .sidebar {
-    background-color: green;
+    background-color: black;
     width: 340px;
     border-radius: 1rem;
 }
@@ -113,8 +114,8 @@ a {
 }
 
 .box {
-    height: 8rem;
     background-color: #232323;
+    height: 8rem;
     border-radius: 0.75rem;
     margin: 0.75rem 0 1.75rem 0;
     padding: 0.75rem 1rem;
@@ -124,11 +125,17 @@ a {
 .box-p1 {
     font-size: 1rem;
     font-weight: 500;
+    margin-bottom:1rem ;
+    background-color: #232323;
+    
+    
 }
 
 .box-p2 {
     font-size: 0.85rem;
     opacity: 0.9;
+    background-color: #232323;
+    margin-bottom: 0.5rem;
 }
 
 .badge {
@@ -140,4 +147,5 @@ a {
     margin-top: 0.5rem;
     height: 2rem;
     width: fit-content;
+    color: black;
 }
