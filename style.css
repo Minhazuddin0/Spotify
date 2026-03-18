@@ -152,5 +152,10 @@ a {
 
 .sticky-nav{
     position: sticky;
-    
+    top: 0;
+    background-color: #121212;
+    display: flex;
+    justify-content: space-between;
+
+
 }
