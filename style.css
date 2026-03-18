@@ -149,3 +149,8 @@ a {
     width: fit-content;
     color: black;
 }
+
+.sticky-nav{
+    position: sticky;
+    
+}
