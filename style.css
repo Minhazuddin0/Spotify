@@ -156,6 +156,21 @@ a {
     background-color: #121212;
     display: flex;
     justify-content: space-between;
+    align-items: center;
+    padding: 1rem 0 1rem 0;
 
+}
 
+.sticky-icons {
+    margin-left: 0.75rem;
+}
+
+.sticky-options{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.sticky-options button{
+    margin-right: 1rem;
 }
