@@ -195,7 +195,7 @@ a {
 
 }
 
-.card-container{
+.cards-container{
     display: flex;
 
 }
@@ -207,4 +207,12 @@ a {
 
 .card-title{
     font-weight: 600;
+    background-color: #232323;
 }
+
+.card-info{
+    font-size: 0.75rem;
+    opacity: 0.8;
+background-color: #232323;
+}
+
