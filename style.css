@@ -249,3 +249,7 @@ a {
 .controls{
     width: 25%;
 }
+
+.player-control-icon{
+    height: 1rem;
+}
