@@ -252,13 +252,14 @@ a {
     width: 25%;
 }
 
-.player-control{
+.player-controls{
     display: flex;
-    justify-content: space-between;
+    justify-content: center;
     align-items: center;
 }
 
 .player-control-icon{
     height: 1rem;
+    margin-right: 2rem;
 
 }
